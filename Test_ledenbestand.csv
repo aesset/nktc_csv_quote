@@ -1,0 +1,798 @@
+30001,3000000111,HOOFDLID,Mw. Volw Meenemen,Larikslaan 5,3833 AM,Leusden,,A.,Meenemen,Volw,16-1-1938,UTH,,,,,2,VOLW,F
+30001,3000000112,PARTNER,Mw. Partner Volw,Larikslaan 5,3833 AM,Leusden,,B.,Volw,Partner,6-2-1942,UTH,,,,,2,VOLW,F
+30001,3000000113,GEZINSLID,Mw Groot Kind Volw,Larikslaan 5,3833 AM,Leusden,,C.,Volw,Groot kind,16-1-1971,UTH,,,,,2,VOLW,F
+30001,3000000114,KIND,Mw. Kind Volw,Larikslaan 5,3833 AM,Leusden,,K.,Volw,Kind,1-1-2020,UTH,,,,,2,VOLW,F
+30002,3000000115,HOOFDLID,Hr. Kennismaking Meenemen,Larikslaan 5,3833 AM,Leusden,,K.,Meenemen,Kennismaking,22-5-1985,UTH,,,,,1,KENNISM,F
+30002,3000000116,PARTNER,Hr. Partner Kennismaking,Larikslaan 5,3833 AM,Leusden,,P.,Kennismaking,Partner,22-5-1985,UTH,,,,,1,KENNISM,F
+30002,3000000117,GEZINSLID,Hr. Groot Kind Kennismaking,Larikslaan 5,3833 AM,Leusden,,C.,Volw,Groot kind,16-1-1971,UTH,,,,,1,KENNISM,F
+30002,3000000118,KIND,Hr. Kind Kennismaking,Larikslaan 5,3833 AM,Leusden,,K.,Kennismaking,Kind,1-1-2020,UTH,,,,,1,KENNISM,F
+30003,3000000119,HOOFDLID,Hr. Erelid Meenemen,Larikslaan 5,3833 AM,Leusden,,E.,Meenemen,Erelid,22-5-1985,UTH,,,,,1,ERELID,F
+30004,3000000120,RELATIE,Mevrouw/De Heer Relatie Niet meenemen,Larikslaan 5,3833 AM,Leusden,,M.,Niet meenemen,Relatie,-  -,UTH,,,,,3,GEENLID,F
+30005,3000000121,HOOFDLID,Hr. Donateurs Niet-meenemen,Larikslaan 5,3833 AM,Leusden,,D.,Niet-Meenemen,Donateurs,22-5-1985,UTH,,,,,1,DONATEURS,F
+30005,3000000122,PARTNER,Hr. Partner Donateurs Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,P.,Niet-Meenemen,Partner,22-5-1985,UTH,,,,,1,DONATEURS,F
+30005,3000000123,KIND,Hr. Kind Donateurs Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,K.,Niet-Meenemen,Kind,1-1-2020,UTH,,,,,1,DONATEURS,F
+30006,3000000124,HOOFDLID,Hr. Geenlid Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,G.,Niet-Meenemen,Geenlid,22-5-1985,UTH,,,,,1,GEENLID,F
+30007,3000000125,PARTNER,Hr. Partner Geenlid Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,P.,Niet-Meenemen,Partner,22-5-1985,UTH,,,,,1,GEENLID,F
+30008,3000000126,KIND,Hr. Kind Geenlid Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,K.,Niet-Meenemen,Kind,1-1-2020,UTH,,,,,1,GEENLID,F
+30009,3000000127,HOOFDLID,Mw. Postcode Aan-elkaar,Larikslaan 5,3833AM,Leusden,Nederland,P.,Aan-elkaar,Postcode,16-1-1971,UTH,,,,,2,VOLW,F
+30010,3000000128,HOOFDLID,Hr. Postcode Uit-elkaar,Larikslaan 5,3833 AM,Leusden,Nederland,P.,Uit-elkaar,Postocode,1-6-1953,UTH,,,,,1,VOLW,F
+30011,3000000129,HOOFDLID,Hr. Postcode Nederland-leeg,Larikslaan 5,,Leusden,Nederland,P.,Nederland-leeg,Postcode,25-9-1983,UTH,,,,,1,VOLW,F
+30012,3000000130,HOOFDLID,Hr. Postcode Streepje Denemarken,Frederik 34,  -,Kopenhagen,Denemarken,P.,Streepje Denemarken,Postcode,26-4-1984,BUITLND,,,,,1,VOLW,F
+30013,3000000131,HOOFDLID,Hr. Postcode België-AlleenGetal,Allez Vooruit 23,9000,Brussel,België,P.,België-AlleenGetal,Postcode,22-5-1985,BUITLND,,,,,1,VOLW,F
+30014,3000000132,HOOFDLID,Hr. Postcode Noorwegen-leeg,Olie geven wij 89,,Oslo,Noorwegen,P.,Noorwegen-leeg,Postcode,17-10-1995,BUITLND,,,,,1,VOLW,F
+30015,3000000133,HOOFDLID,Mw. Straße Duitsland,Straße 12,D-47559,Berlin ß,Duitsland ß,P.,Duitsland ß,Straße,3-11-1990,BUITLND,,,,,2,VOLW,F
+30016,3000000134,HOOFDLID,Hr. Voorletters Leeg,Larikslaan 5,3833 AM,Leusden,,,Leeg,Voorletters,18-8-1943,UTH,,,,,1,VOLW,F
+30017,3000000135,HOOFDLID,Hr. Roepnaam Leeg,Larikslaan 5,3833 AM,Leusden,,R.,Leeg,,18-8-1943,UTH,,,,,1,VOLW,F
+30018,3000000136,HOOFDLID,Hr. Geboortedatum Onbreekt,Larikslaan 5,3833 AM,Leusden,,O.,Ontbreekt,Geboortedatum,,UTH,,,,,1,VOLW,F
+30019,3000000137,HOOFDLID,Hr. Geboortedatum Toekomst,Larikslaan 5,3833 AM,Leusden,,G.,Toekomst,Geboortedatum,1-1-2025,UTH,,,,,1,VOLW,F
+30020,3000000138,HOOFDLID,Hr. Ouderdan Honderd,Larikslaan 5,3833 AM,Leusden,,O.,Honderd,Ouderdan,1-1-1900,UTH,,,,,1,VOLW,F
+30021,3000000139,HOOFDLID,Hr. Telefoon Leeg,Larikslaan 5,3833 AM,Leusden,,T.,Leeg,Telefoon,22-5-1985,UTH,,,,,1,VOLW,F
+30022,3000000140,HOOFDLID,Hr. Telefoon Getal,Larikslaan 5,3833 AM,Leusden,,T.,Getal,Telefoon,22-5-1985,UTH,,,612345678,,1,VOLW,F
+30023,3000000141,HOOFDLID,Hr. Telefoon Getal-Metstreepjes,Larikslaan 5,3833 AM,Leusden,,T.,Getal-Metstreepjes,Telefoon,22-5-1985,UTH,,,06-12345678,,1,VOLW,F
+30024,,HOOFDLID,Hr. QR Code Ontbreekt Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,Q.,Niet-Meenemen,QR Code Ontbreekt,22-5-1985,UTH,,,,,1,VOLW,F
+30024,3000000143,HOOFDLID,,Larikslaan 5,3833 AM,Leusden,,V.,Niet-Meenemen,Volledige naam Ontbreekt,22-5-1985,UTH,,,,,1,VOLW,F
+30024,3000000144,HOOFDLID,Hr. Achternaam Ontbreekt Niet-Meenemen,Larikslaan 5,3833 AM,Leusden,,A.,,Achternaam Ontbreekt,22-5-1985,UTH,,,,,1,VOLW,F
+30024,3000000145,HOOFDLID,Hr. T of C Ontbreekt Niet-Meenement,Larikslaan 5,3833 AM,Leusden,,T.,Niet-Meenemen,T of C Ontbreekt,22-5-1985,UTH,,,,,1,VOLW,
+25701,2000005701,HOOFDLID,Mw. Oma Caravan-Helmond,Torenstraat 1,5701 SH ,Helmond,,O.M.A.,Helmond-CaravanRecht,Oma,18-4-1947,NIJM,,,,,,VOLW,T
+25701,2000005702,PARTNER,Hr. Opa Caravan-Helmond,Torenstraat 1,5701 SH ,Helmond,,O.P.A.,Helmond-CaravanRecht,Opa,1-6-1953,NIJM,,,,,,VOLW,T
+25702,2000005703,HOOFDLID,Mw. Oma CaravanGeenRecht-Helmond,Torenstraat 2,5701 SH ,Helmond,,G.E.E.N.,Helmond-CaravanGeenRecht,Oma,18-4-1947,NIJM,,,,,,VOLW,F
+25702,2000005704,PARTNER,Hr. Opa CaravanWelRecht-Helmond,Torenstraat 2,5701 SH ,Helmond,,W.E.L,Helmond-CaravanWelRecht,Opa,1-6-1953,NIJM,,,,,,VOLW,T
+23343,2000003343,HOOFDLID,Dhr. Aragorn Isildur,Ring 4,3343RH,Hendrik-Ido-Ambacht,,A.,Isildur,Aragorn,12-1-1964,ZLND,,,,,,VOLW,F
+23343,2000003344,PARTNER,Dhr. B. Baggins,Ring 4,3343RH,Hendrik-Ido-Ambacht,,B.,Baggins,,12-1-1965,ZLND,,,,,,VOLW,F
+23343,2000003345,GEZINSLID,Dhr. Baggins,Ring 4,3343RH,Hendrik-Ido-Ambacht,,F.,Baggins,Frodo,22-5-1985,ZLND,,,,,,VOLW,F
+23343,2000003346,KIND,Dhr. Brandybuck,Ring 4,3343RH,Hendrik-Ido-Ambacht,,,Brandybuck,Merry,1-1-2006,ZLND,,,,,,VOLW,F
+23343,2000003347,KIND,Dhr. Pippin Took,Ring 4,3343RH,Hendrik-Ido-Ambacht,,P.,Took,Pippin,1-1-2006,ZLND,,,,,,VOLW,F
+28014,2000008014,HOOFDLID,Dhr. Boromir,Pijmanstraat 18,8014 VB,Zwolle,,,Boromir,,12-1-1964,VELW,,,,,,VOLW,F
+28014,2000008015,PARTNER,Mw. Nazgûl,Pijmanstraat 18,8014 VB,Zwolle,,N.,Gûl,Nazg,12-1-1965,VELW,,,,,,VOLW,F
+28014,2000008016,KIND,Dhr. Pippin Took,Pijmanstraat 18,8014 VB,Zwolle,,P.,Took,,1-1-2006,VELW,,,,,,VOLW,F
+21411,2000001411,HOOFDLID,Dhr. Jeff Bezos-Ugchelen,Zeeweg 2,1411 ZX,Naarden,,J.,Bezos-Huizen,Jeff,12-1-1964,UTH,jeroen@blom.cc,,,,,VOLW,F
+21411,2000001412,PARTNER,Mw. Partner Bezos-Ugchelen,Zeeweg 2,1411 ZX,Naarden,,B.,Bezos-Huizen,Partner,12-1-1965,UTH,jeroen@blom.cc,,,,,VOLW,F
+21411,2000001413,KIND,Mw. Zeventien Bezos-Ugchelen,Zeeweg 2,1411 ZX,Naarden,,Z.,Bezos-Huizen,Zeventien,1-1-2006,UTH,jeroen@blom.cc,,,,,VOLW,F
+21411,2000001414,KIND,Hr.  Dertien Bezos-Ugchelen,Zeeweg 2,1411 ZX,Naarden,,D.,Bezos-Huizen,Dertien,1-1-2010,UTH,jeroen@blom.cc,,,,,VOLW,F
+21411,2000001415,KIND,Mw. Vijf Bezos-Ugchelen,Zeeweg 2,1411 ZX,Naarden,,V.,Bezos-Huizen,Vijf,1-1-2018,UTH,jeroen@blom.cc,,,,,VOLW,F
+23711,2000003711,HOOFDLID,Dhr. Bill Gates-Austerlitz,Hubertweg 37,3711CE,Austerlitz,,B.,Gates-Austerlitz,Bill,12-1-1964,UTH,jeroen@blom.cc,,,,,VOLW,F
+23711,2000003712,PARTNER,Mw. Partner Gates-Austerlitz,Hubertweg 37,3711CE,Austerlitz,,B.,Gates-Austerlitz,Partner,12-1-1965,UTH,jeroen@blom.cc,,,,,VOLW,F
+23711,2000003713,KIND,Mw. Zeventien Gates-Austerlitz,Hubertweg 37,3711CE,Austerlitz,,Z.,Gates-Austerlitz,Zeventien,1-1-2006,UTH,jeroen@blom.cc,,,,,VOLW,F
+23711,2000003714,KIND,Hr.  Dertien Gates-Austerlitz,Hubertweg 37,3711CE,Austerlitz,,T.,Gates-Austerlitz,Dertien,1-1-2010,UTH,jeroen@blom.cc,,,,,VOLW,F
+23711,2000003715,KIND,Mw. Vijf Gates-Austerlitz,Hubertweg 37,3711CE,Austerlitz,,V.,Gates-Austerlitz,Vijf,1-1-2018,UTH,jeroen@blom.cc,,,,,VOLW,F
+21906,2000001906,HOOFDLID,Mw. Florijn Gulden-Limmen,Hogeweg 148,1906CW,Limmen,,E.,Gulden-Limmen,Florijn,12-1-1964,KNLND,jeroen@blom.cc,,,,,VOLW,F
+21906,2000001907,PARTNER,Mw. Partner Gulden-Limmen,Hogeweg 148,1906CW,Limmen,,P.,Gulden-Limmen,Partner,12-1-1965,KNLND,jeroen@blom.cc,,,,,VOLW,F
+21906,2000001908,KIND,Hr. Zeventien GuldenLimmen,Hogeweg 148,1906CW,Limmen,,Z.,Gulden-Limmen,Zeventien,1-1-2006,KNLND,jeroen@blom.cc,,,,,VOLW,F
+21906,2000001909,KIND,Mw. Dertien Gulden-Limmen,Hogeweg 148,1906CW,Limmen,,T.,Gulden-Limmen,Dertien,1-1-2010,KNLND,jeroen@blom.cc,,,,,VOLW,F
+21906,2000001910,KIND,Hr. Vijf Gulden-Limmen,Hogeweg 148,1906CW,Limmen,,V.,Gulden-Limmen,Vijf,1-1-2018,KNLND,jeroen@blom.cc,,,,,VOLW,F
+27339,2000007339,HOOFDLID,Hr. Florijn Euro-Huizen,Golsteinlaan 49,7339 GT,Ugchelen,,F.,Euro-Huizen,Florijn,12-1-1964,VELW,jeroen@blom.cc,,,,,VOLW,F
+27339,2000007340,PARTNER,Hr. Partner Euro-Huizen,Golsteinlaan 49,7339 GT,Ugchelen,,P.,Euro-Huizen,Partner,12-1-1965,VELW,jeroen@blom.cc,,,,,VOLW,F
+27339,2000007341,KIND,Mw. Zeventien Euro-Huizen,Golsteinlaan 49,7339 GT,Ugchelen,,Z.,Euro-Huizen,Zeventien,1-1-2006,VELW,jeroen@blom.cc,,,,,VOLW,F
+27339,2000007342,KIND,Hr. Dertien Euro-Huizen,Golsteinlaan 49,7339 GT,Ugchelen,,T.,Euro-Huizen,Dertien,1-1-2010,VELW,jeroen@blom.cc,,,,,VOLW,F
+27339,2000007343,KIND,Mw. Vijf Euro-Huizen,Golsteinlaan 49,7339 GT,Ugchelen,,V.,Euro-Huizen,Vijf,1-1-2018,VELW,jeroen@blom.cc,,,,,VOLW,F
+18091923,1620230000,HOOFDLID,Dhr. Zaad van Karbaat,Zaadmarkt 74 b,7201KM,Zutphen,,J.,Karbaat,Jan,18-9-1927,DHG,,,,,,VOLW,F
+18091923,1620230101,KIND,Mw. Netzestien Een-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Een-Januari,Netzestien,1-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230102,KIND,Mw. Netzestien Twee-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Twee-Januari,Netzestien,2-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230103,KIND,Mw. Netzestien Drie-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Drie-Januari,Netzestien,3-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230104,KIND,Mw. Netzestien Vier-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vier-Januari,Netzestien,4-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230105,KIND,Mw. Netzestien Vijf-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vijf-Januari,Netzestien,5-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230106,KIND,Mw. Netzestien Zes-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zes-Januari,Netzestien,6-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230107,KIND,Mw. Netzestien Zeven-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zeven-Januari,Netzestien,7-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230108,KIND,Mw. Netzestien Acht-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Acht-Januari,Netzestien,8-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230109,KIND,Mw. Netzestien Negen-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Negen-Januari,Netzestien,9-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230110,KIND,Mw. Netzestien Tien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Tien-Januari,Netzestien,10-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230111,KIND,Mw. Netzestien Elf-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Elf-Januari,Netzestien,11-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230112,KIND,Mw. Netzestien Twaalf-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Twaalf-Januari,Netzestien,12-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230113,KIND,Mw. Netzestien Dertien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Dertien-Januari,Netzestien,13-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230114,KIND,Mw. Netzestien Veertien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Veertien-Januari,Netzestien,14-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230115,KIND,Mw. Netzestien Vijftien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vijftien-Januari,Netzestien,15-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230116,KIND,Mw. Netzestien Zestien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zestien-Januari,Netzestien,16-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230117,KIND,Mw. Netzestien Zeventien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zeventien-Januari,Netzestien,17-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230118,KIND,Mw. Netzestien Achttien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Achttien-Januari,Netzestien,18-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230119,KIND,Mw. Netzestien Negentien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Negentien-Januari,Netzestien,19-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230120,KIND,Mw. Netzestien Twintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Twintig-Januari,Netzestien,20-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230121,KIND,Mw. Netzestien Eenentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Eenentwintig-Januari,Netzestien,21-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230122,KIND,Mw. Netzestien Tweeentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Tweeentwintig-Januari,Netzestien,22-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230123,KIND,Mw. Netzestien Drieentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Drieentwintig-Januari,Netzestien,23-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230124,KIND,Mw. Netzestien Vierentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vierentwintig-Januari,Netzestien,24-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230125,KIND,Mw. Netzestien Vijfentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vijfentwintig-Januari,Netzestien,25-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230126,KIND,Mw. Netzestien Zesentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zesentwintig-Januari,Netzestien,26-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230127,KIND,Mw. Netzestien Zeventwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zeventwintig-Januari,Netzestien,27-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230128,KIND,Mw. Netzestien Achtentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Achtentwintig-Januari,Netzestien,28-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230129,KIND,Mw. Netzestien Negentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Negentwintig-Januari,Netzestien,29-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230130,KIND,Mw. Netzestien Dertig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Dertig-Januari,Netzestien,30-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230131,KIND,Mw. Netzestien Eenendertig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Eenendertig-Januari,Netzestien,31-1-2007,DHG,,,,,,VOLW,F
+18091923,1620230201,KIND,Mw. Netzestien Een-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Een-Februari,Netzestien,1-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230202,KIND,Mw. Netzestien Twee-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Twee-Februari,Netzestien,2-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230203,KIND,Mw. Netzestien Drie-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Drie-Februari,Netzestien,3-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230204,KIND,Mw. Netzestien Vier-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vier-Februari,Netzestien,4-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230205,KIND,Mw. Netzestien Vijf-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vijf-Februari,Netzestien,5-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230206,KIND,Mw. Netzestien Zes-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zes-Februari,Netzestien,6-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230207,KIND,Mw. Netzestien Zeven-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zeven-Februari,Netzestien,7-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230208,KIND,Mw. Netzestien Acht-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Acht-Februari,Netzestien,8-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230209,KIND,Mw. Netzestien Negen-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Negen-Februari,Netzestien,9-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230210,KIND,Mw. Netzestien Tien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Tien-Februari,Netzestien,10-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230211,KIND,Mw. Netzestien Elf-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Elf-Februari,Netzestien,11-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230212,KIND,Mw. Netzestien Twaalf-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Twaalf-Februari,Netzestien,12-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230213,KIND,Mw. Netzestien Dertien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Dertien-Februari,Netzestien,13-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230214,KIND,Mw. Netzestien Veertien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Veertien-Februari,Netzestien,14-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230215,KIND,Mw. Netzestien Vijftien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vijftien-Februari,Netzestien,15-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230216,KIND,Mw. Netzestien Zestien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zestien-Februari,Netzestien,16-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230217,KIND,Mw. Netzestien Zeventien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zeventien-Februari,Netzestien,17-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230218,KIND,Mw. Netzestien Achttien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Achttien-Februari,Netzestien,18-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230219,KIND,Mw. Netzestien Negentien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Negentien-Februari,Netzestien,19-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230220,KIND,Mw. Netzestien Twintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Twintig-Februari,Netzestien,20-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230221,KIND,Mw. Netzestien Eenentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Eenentwintig-Februari,Netzestien,21-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230222,KIND,Mw. Netzestien Tweeentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Tweeentwintig-Februari,Netzestien,22-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230223,KIND,Mw. Netzestien Drieentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Drieentwintig-Februari,Netzestien,23-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230224,KIND,Mw. Netzestien Vierentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vierentwintig-Februari,Netzestien,24-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230225,KIND,Mw. Netzestien Vijfentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vijfentwintig-Februari,Netzestien,25-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230226,KIND,Mw. Netzestien Zesentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zesentwintig-Februari,Netzestien,26-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230227,KIND,Mw. Netzestien Zeventwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zeventwintig-Februari,Netzestien,27-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230228,KIND,Mw. Netzestien Achtentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Achtentwintig-Februari,Netzestien,28-2-2007,DHG,,,,,,VOLW,F
+18091923,1620230301,KIND,Mw. Netzestien Een-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Een-Maart,Netzestien,1-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230302,KIND,Mw. Netzestien Twee-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Twee-Maart,Netzestien,2-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230303,KIND,Mw. Netzestien Drie-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Drie-Maart,Netzestien,3-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230304,KIND,Mw. Netzestien Vier-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vier-Maart,Netzestien,4-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230305,KIND,Mw. Netzestien Vijf-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vijf-Maart,Netzestien,5-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230306,KIND,Mw. Netzestien Zes-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zes-Maart,Netzestien,6-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230307,KIND,Mw. Netzestien Zeven-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zeven-Maart,Netzestien,7-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230308,KIND,Mw. Netzestien Acht-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Acht-Maart,Netzestien,8-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230309,KIND,Mw. Netzestien Negen-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Negen-Maart,Netzestien,9-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230310,KIND,Mw. Netzestien Tien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Tien-Maart,Netzestien,10-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230311,KIND,Mw. Netzestien Elf-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Elf-Maart,Netzestien,11-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230312,KIND,Mw. Netzestien Twaalf-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Twaalf-Maart,Netzestien,12-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230313,KIND,Mw. Netzestien Dertien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Dertien-Maart,Netzestien,13-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230314,KIND,Mw. Netzestien Veertien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Veertien-Maart,Netzestien,14-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230315,KIND,Mw. Netzestien Vijftien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vijftien-Maart,Netzestien,15-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230316,KIND,Mw. Netzestien Zestien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zestien-Maart,Netzestien,16-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230317,KIND,Mw. Netzestien Zeventien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zeventien-Maart,Netzestien,17-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230318,KIND,Mw. Netzestien Achttien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Achttien-Maart,Netzestien,18-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230319,KIND,Mw. Netzestien Negentien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Negentien-Maart,Netzestien,19-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230320,KIND,Mw. Netzestien Twintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Twintig-Maart,Netzestien,20-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230321,KIND,Mw. Netzestien Eenentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Eenentwintig-Maart,Netzestien,21-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230322,KIND,Mw. Netzestien Tweeentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Tweeentwintig-Maart,Netzestien,22-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230323,KIND,Mw. Netzestien Drieentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Drieentwintig-Maart,Netzestien,23-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230324,KIND,Mw. Netzestien Vierentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vierentwintig-Maart,Netzestien,24-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230325,KIND,Mw. Netzestien Vijfentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vijfentwintig-Maart,Netzestien,25-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230326,KIND,Mw. Netzestien Zesentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zesentwintig-Maart,Netzestien,26-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230327,KIND,Mw. Netzestien Zeventwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zeventwintig-Maart,Netzestien,27-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230328,KIND,Mw. Netzestien Achtentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Achtentwintig-Maart,Netzestien,28-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230329,KIND,Mw. Netzestien Negentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Negentwintig-Maart,Netzestien,29-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230330,KIND,Mw. Netzestien Dertig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Dertig-Maart,Netzestien,30-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230331,KIND,Mw. Netzestien Eenendertig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Eenendertig-Maart,Netzestien,31-3-2007,DHG,,,,,,VOLW,F
+18091923,1620230401,KIND,Mw. Netzestien Een-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Een-April,Netzestien,1-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230402,KIND,Mw. Netzestien Twee-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Twee-April,Netzestien,2-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230403,KIND,Mw. Netzestien Drie-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Drie-April,Netzestien,3-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230404,KIND,Mw. Netzestien Vier-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vier-April,Netzestien,4-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230405,KIND,Mw. Netzestien Vijf-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vijf-April,Netzestien,5-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230406,KIND,Mw. Netzestien Zes-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zes-April,Netzestien,6-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230407,KIND,Mw. Netzestien Zeven-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zeven-April,Netzestien,7-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230408,KIND,Mw. Netzestien Acht-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Acht-April,Netzestien,8-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230409,KIND,Mw. Netzestien Negen-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Negen-April,Netzestien,9-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230410,KIND,Mw. Netzestien Tien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Tien-April,Netzestien,10-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230411,KIND,Mw. Netzestien Elf-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Elf-April,Netzestien,11-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230412,KIND,Mw. Netzestien Twaalf-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Twaalf-April,Netzestien,12-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230413,KIND,Mw. Netzestien Dertien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Dertien-April,Netzestien,13-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230414,KIND,Mw. Netzestien Veertien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Veertien-April,Netzestien,14-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230415,KIND,Mw. Netzestien Vijftien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vijftien-April,Netzestien,15-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230416,KIND,Mw. Netzestien Zestien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zestien-April,Netzestien,16-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230417,KIND,Mw. Netzestien Zeventien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zeventien-April,Netzestien,17-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230418,KIND,Mw. Netzestien Achttien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Achttien-April,Netzestien,18-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230419,KIND,Mw. Netzestien Negentien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Negentien-April,Netzestien,19-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230420,KIND,Mw. Netzestien Twintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Twintig-April,Netzestien,20-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230421,KIND,Mw. Netzestien Eenentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Eenentwintig-April,Netzestien,21-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230422,KIND,Mw. Netzestien Tweeentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Tweeentwintig-April,Netzestien,22-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230423,KIND,Mw. Netzestien Drieentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Drieentwintig-April,Netzestien,23-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230424,KIND,Mw. Netzestien Vierentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vierentwintig-April,Netzestien,24-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230425,KIND,Mw. Netzestien Vijfentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vijfentwintig-April,Netzestien,25-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230426,KIND,Mw. Netzestien Zesentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zesentwintig-April,Netzestien,26-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230427,KIND,Mw. Netzestien Zeventwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zeventwintig-April,Netzestien,27-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230428,KIND,Mw. Netzestien Achtentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Achtentwintig-April,Netzestien,28-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230429,KIND,Mw. Netzestien Negentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Negentwintig-April,Netzestien,29-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230430,KIND,Mw. Netzestien Dertig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Dertig-April,Netzestien,30-4-2007,DHG,,,,,,VOLW,F
+18091923,1620230501,KIND,Mw. Netzestien Een-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Een-Mei,Netzestien,1-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230502,KIND,Mw. Netzestien Twee-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Twee-Mei,Netzestien,2-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230503,KIND,Mw. Netzestien Drie-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Drie-Mei,Netzestien,3-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230504,KIND,Mw. Netzestien Vier-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vier-Mei,Netzestien,4-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230505,KIND,Mw. Netzestien Vijf-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vijf-Mei,Netzestien,5-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230506,KIND,Mw. Netzestien Zes-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zes-Mei,Netzestien,6-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230507,KIND,Mw. Netzestien Zeven-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zeven-Mei,Netzestien,7-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230508,KIND,Mw. Netzestien Acht-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Acht-Mei,Netzestien,8-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230509,KIND,Mw. Netzestien Negen-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Negen-Mei,Netzestien,9-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230510,KIND,Mw. Netzestien Tien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Tien-Mei,Netzestien,10-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230511,KIND,Mw. Netzestien Elf-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Elf-Mei,Netzestien,11-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230512,KIND,Mw. Netzestien Twaalf-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Twaalf-Mei,Netzestien,12-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230513,KIND,Mw. Netzestien Dertien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Dertien-Mei,Netzestien,13-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230514,KIND,Mw. Netzestien Veertien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Veertien-Mei,Netzestien,14-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230515,KIND,Mw. Netzestien Vijftien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vijftien-Mei,Netzestien,15-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230516,KIND,Mw. Netzestien Zestien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zestien-Mei,Netzestien,16-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230517,KIND,Mw. Netzestien Zeventien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zeventien-Mei,Netzestien,17-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230518,KIND,Mw. Netzestien Achttien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Achttien-Mei,Netzestien,18-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230519,KIND,Mw. Netzestien Negentien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Negentien-Mei,Netzestien,19-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230520,KIND,Mw. Netzestien Twintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Twintig-Mei,Netzestien,20-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230521,KIND,Mw. Netzestien Eenentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Eenentwintig-Mei,Netzestien,21-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230522,KIND,Mw. Netzestien Tweeentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Tweeentwintig-Mei,Netzestien,22-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230523,KIND,Mw. Netzestien Drieentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Drieentwintig-Mei,Netzestien,23-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230524,KIND,Mw. Netzestien Vierentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vierentwintig-Mei,Netzestien,24-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230525,KIND,Mw. Netzestien Vijfentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vijfentwintig-Mei,Netzestien,25-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230526,KIND,Mw. Netzestien Zesentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zesentwintig-Mei,Netzestien,26-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230527,KIND,Mw. Netzestien Zeventwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zeventwintig-Mei,Netzestien,27-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230528,KIND,Mw. Netzestien Achtentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Achtentwintig-Mei,Netzestien,28-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230529,KIND,Mw. Netzestien Negentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Negentwintig-Mei,Netzestien,29-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230530,KIND,Mw. Netzestien Dertig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Dertig-Mei,Netzestien,30-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230531,KIND,Mw. Netzestien Eenendertig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Eenendertig-Mei,Netzestien,31-5-2007,DHG,,,,,,VOLW,F
+18091923,1620230601,KIND,Mw. Netzestien Een-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Een-Juni,Netzestien,1-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230602,KIND,Mw. Netzestien Twee-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Twee-Juni,Netzestien,2-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230603,KIND,Mw. Netzestien Drie-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Drie-Juni,Netzestien,3-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230604,KIND,Mw. Netzestien Vier-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vier-Juni,Netzestien,4-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230605,KIND,Mw. Netzestien Vijf-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vijf-Juni,Netzestien,5-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230606,KIND,Mw. Netzestien Zes-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zes-Juni,Netzestien,6-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230607,KIND,Mw. Netzestien Zeven-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zeven-Juni,Netzestien,7-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230608,KIND,Mw. Netzestien Acht-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Acht-Juni,Netzestien,8-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230609,KIND,Mw. Netzestien Negen-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Negen-Juni,Netzestien,9-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230610,KIND,Mw. Netzestien Tien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Tien-Juni,Netzestien,10-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230611,KIND,Mw. Netzestien Elf-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Elf-Juni,Netzestien,11-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230612,KIND,Mw. Netzestien Twaalf-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Twaalf-Juni,Netzestien,12-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230613,KIND,Mw. Netzestien Dertien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Dertien-Juni,Netzestien,13-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230614,KIND,Mw. Netzestien Veertien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Veertien-Juni,Netzestien,14-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230615,KIND,Mw. Netzestien Vijftien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vijftien-Juni,Netzestien,15-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230616,KIND,Mw. Netzestien Zestien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zestien-Juni,Netzestien,16-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230617,KIND,Mw. Netzestien Zeventien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zeventien-Juni,Netzestien,17-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230618,KIND,Mw. Netzestien Achttien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Achttien-Juni,Netzestien,18-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230619,KIND,Mw. Netzestien Negentien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Negentien-Juni,Netzestien,19-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230620,KIND,Mw. Netzestien Twintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Twintig-Juni,Netzestien,20-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230621,KIND,Mw. Netzestien Eenentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Eenentwintig-Juni,Netzestien,21-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230622,KIND,Mw. Netzestien Tweeentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Tweeentwintig-Juni,Netzestien,22-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230623,KIND,Mw. Netzestien Drieentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Drieentwintig-Juni,Netzestien,23-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230624,KIND,Mw. Netzestien Vierentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vierentwintig-Juni,Netzestien,24-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230625,KIND,Mw. Netzestien Vijfentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vijfentwintig-Juni,Netzestien,25-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230626,KIND,Mw. Netzestien Zesentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zesentwintig-Juni,Netzestien,26-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230627,KIND,Mw. Netzestien Zeventwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zeventwintig-Juni,Netzestien,27-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230628,KIND,Mw. Netzestien Achtentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Achtentwintig-Juni,Netzestien,28-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230629,KIND,Mw. Netzestien Negentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Negentwintig-Juni,Netzestien,29-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230630,KIND,Mw. Netzestien Dertig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Dertig-Juni,Netzestien,30-6-2007,DHG,,,,,,VOLW,F
+18091923,1620230701,KIND,Mw. Netzestien Een-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Een-Juli,Netzestien,1-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230702,KIND,Mw. Netzestien Twee-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Twee-Juli,Netzestien,2-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230703,KIND,Mw. Netzestien Drie-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Drie-Juli,Netzestien,3-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230704,KIND,Mw. Netzestien Vier-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vier-Juli,Netzestien,4-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230705,KIND,Mw. Netzestien Vijf-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vijf-Juli,Netzestien,5-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230706,KIND,Mw. Netzestien Zes-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zes-Juli,Netzestien,6-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230707,KIND,Mw. Netzestien Zeven-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zeven-Juli,Netzestien,7-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230708,KIND,Mw. Netzestien Acht-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Acht-Juli,Netzestien,8-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230709,KIND,Mw. Netzestien Negen-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Negen-Juli,Netzestien,9-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230710,KIND,Mw. Netzestien Tien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Tien-Juli,Netzestien,10-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230711,KIND,Mw. Netzestien Elf-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Elf-Juli,Netzestien,11-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230712,KIND,Mw. Netzestien Twaalf-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Twaalf-Juli,Netzestien,12-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230713,KIND,Mw. Netzestien Dertien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Dertien-Juli,Netzestien,13-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230714,KIND,Mw. Netzestien Veertien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Veertien-Juli,Netzestien,14-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230715,KIND,Mw. Netzestien Vijftien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vijftien-Juli,Netzestien,15-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230716,KIND,Mw. Netzestien Zestien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zestien-Juli,Netzestien,16-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230717,KIND,Mw. Netzestien Zeventien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zeventien-Juli,Netzestien,17-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230718,KIND,Mw. Netzestien Achttien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Achttien-Juli,Netzestien,18-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230719,KIND,Mw. Netzestien Negentien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Negentien-Juli,Netzestien,19-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230720,KIND,Mw. Netzestien Twintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Twintig-Juli,Netzestien,20-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230721,KIND,Mw. Netzestien Eenentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Eenentwintig-Juli,Netzestien,21-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230722,KIND,Mw. Netzestien Tweeentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Tweeentwintig-Juli,Netzestien,22-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230723,KIND,Mw. Netzestien Drieentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Drieentwintig-Juli,Netzestien,23-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230724,KIND,Mw. Netzestien Vierentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vierentwintig-Juli,Netzestien,24-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230725,KIND,Mw. Netzestien Vijfentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vijfentwintig-Juli,Netzestien,25-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230726,KIND,Mw. Netzestien Zesentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zesentwintig-Juli,Netzestien,26-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230727,KIND,Mw. Netzestien Zeventwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zeventwintig-Juli,Netzestien,27-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230728,KIND,Mw. Netzestien Achtentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Achtentwintig-Juli,Netzestien,28-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230729,KIND,Mw. Netzestien Negentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Negentwintig-Juli,Netzestien,29-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230730,KIND,Mw. Netzestien Dertig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Dertig-Juli,Netzestien,30-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230731,KIND,Mw. Netzestien Eenendertig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Eenendertig-Juli,Netzestien,31-7-2007,DHG,,,,,,VOLW,F
+18091923,1620230801,KIND,Mw. Netzestien Een-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Een-Augustus,Netzestien,1-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230802,KIND,Mw. Netzestien Twee-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Twee-Augustus,Netzestien,2-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230803,KIND,Mw. Netzestien Drie-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Drie-Augustus,Netzestien,3-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230804,KIND,Mw. Netzestien Vier-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vier-Augustus,Netzestien,4-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230805,KIND,Mw. Netzestien Vijf-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vijf-Augustus,Netzestien,5-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230806,KIND,Mw. Netzestien Zes-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zes-Augustus,Netzestien,6-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230807,KIND,Mw. Netzestien Zeven-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zeven-Augustus,Netzestien,7-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230808,KIND,Mw. Netzestien Acht-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Acht-Augustus,Netzestien,8-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230809,KIND,Mw. Netzestien Negen-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Negen-Augustus,Netzestien,9-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230810,KIND,Mw. Netzestien Tien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Tien-Augustus,Netzestien,10-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230811,KIND,Mw. Netzestien Elf-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Elf-Augustus,Netzestien,11-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230812,KIND,Mw. Netzestien Twaalf-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Twaalf-Augustus,Netzestien,12-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230813,KIND,Mw. Netzestien Dertien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Dertien-Augustus,Netzestien,13-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230814,KIND,Mw. Netzestien Veertien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Veertien-Augustus,Netzestien,14-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230815,KIND,Mw. Netzestien Vijftien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vijftien-Augustus,Netzestien,15-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230816,KIND,Mw. Netzestien Zestien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zestien-Augustus,Netzestien,16-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230817,KIND,Mw. Netzestien Zeventien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zeventien-Augustus,Netzestien,17-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230818,KIND,Mw. Netzestien Achttien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Achttien-Augustus,Netzestien,18-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230819,KIND,Mw. Netzestien Negentien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Negentien-Augustus,Netzestien,19-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230820,KIND,Mw. Netzestien Twintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Twintig-Augustus,Netzestien,20-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230821,KIND,Mw. Netzestien Eenentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Eenentwintig-Augustus,Netzestien,21-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230822,KIND,Mw. Netzestien Tweeentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Tweeentwintig-Augustus,Netzestien,22-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230823,KIND,Mw. Netzestien Drieentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Drieentwintig-Augustus,Netzestien,23-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230824,KIND,Mw. Netzestien Vierentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vierentwintig-Augustus,Netzestien,24-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230825,KIND,Mw. Netzestien Vijfentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vijfentwintig-Augustus,Netzestien,25-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230826,KIND,Mw. Netzestien Zesentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zesentwintig-Augustus,Netzestien,26-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230827,KIND,Mw. Netzestien Zeventwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zeventwintig-Augustus,Netzestien,27-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230828,KIND,Mw. Netzestien Achtentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Achtentwintig-Augustus,Netzestien,28-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230829,KIND,Mw. Netzestien Negentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Negentwintig-Augustus,Netzestien,29-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230830,KIND,Mw. Netzestien Dertig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Dertig-Augustus,Netzestien,30-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230831,KIND,Mw. Netzestien Eenendertig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Eenendertig-Augustus,Netzestien,31-8-2007,DHG,,,,,,VOLW,F
+18091923,1620230901,KIND,Mw. Netzestien Een-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Een-September,Netzestien,1-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230902,KIND,Mw. Netzestien Twee-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Twee-September,Netzestien,2-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230903,KIND,Mw. Netzestien Drie-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Drie-September,Netzestien,3-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230904,KIND,Mw. Netzestien Vier-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vier-September,Netzestien,4-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230905,KIND,Mw. Netzestien Vijf-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vijf-September,Netzestien,5-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230906,KIND,Mw. Netzestien Zes-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zes-September,Netzestien,6-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230907,KIND,Mw. Netzestien Zeven-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zeven-September,Netzestien,7-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230908,KIND,Mw. Netzestien Acht-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Acht-September,Netzestien,8-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230909,KIND,Mw. Netzestien Negen-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Negen-September,Netzestien,9-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230910,KIND,Mw. Netzestien Tien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Tien-September,Netzestien,10-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230911,KIND,Mw. Netzestien Elf-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Elf-September,Netzestien,11-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230912,KIND,Mw. Netzestien Twaalf-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Twaalf-September,Netzestien,12-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230913,KIND,Mw. Netzestien Dertien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Dertien-September,Netzestien,13-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230914,KIND,Mw. Netzestien Veertien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Veertien-September,Netzestien,14-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230915,KIND,Mw. Netzestien Vijftien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vijftien-September,Netzestien,15-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230916,KIND,Mw. Netzestien Zestien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zestien-September,Netzestien,16-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230917,KIND,Mw. Netzestien Zeventien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zeventien-September,Netzestien,17-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230918,KIND,Mw. Netzestien Achttien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Achttien-September,Netzestien,18-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230919,KIND,Mw. Netzestien Negentien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Negentien-September,Netzestien,19-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230920,KIND,Mw. Netzestien Twintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Twintig-September,Netzestien,20-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230921,KIND,Mw. Netzestien Eenentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Eenentwintig-September,Netzestien,21-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230922,KIND,Mw. Netzestien Tweeentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Tweeentwintig-September,Netzestien,22-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230923,KIND,Mw. Netzestien Drieentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Drieentwintig-September,Netzestien,23-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230924,KIND,Mw. Netzestien Vierentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vierentwintig-September,Netzestien,24-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230925,KIND,Mw. Netzestien Vijfentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vijfentwintig-September,Netzestien,25-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230926,KIND,Mw. Netzestien Zesentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zesentwintig-September,Netzestien,26-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230927,KIND,Mw. Netzestien Zeventwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zeventwintig-September,Netzestien,27-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230928,KIND,Mw. Netzestien Achtentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Achtentwintig-September,Netzestien,28-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230929,KIND,Mw. Netzestien Negentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Negentwintig-September,Netzestien,29-9-2007,DHG,,,,,,VOLW,F
+18091923,1620230930,KIND,Mw. Netzestien Dertig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Dertig-September,Netzestien,30-9-2007,DHG,,,,,,VOLW,F
+18091923,1620231001,KIND,Mw. Netzestien Een-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Een-Oktober,Netzestien,1-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231002,KIND,Mw. Netzestien Twee-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Twee-Oktober,Netzestien,2-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231003,KIND,Mw. Netzestien Drie-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Drie-Oktober,Netzestien,3-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231004,KIND,Mw. Netzestien Vier-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vier-Oktober,Netzestien,4-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231005,KIND,Mw. Netzestien Vijf-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vijf-Oktober,Netzestien,5-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231006,KIND,Mw. Netzestien Zes-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zes-Oktober,Netzestien,6-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231007,KIND,Mw. Netzestien Zeven-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zeven-Oktober,Netzestien,7-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231008,KIND,Mw. Netzestien Acht-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Acht-Oktober,Netzestien,8-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231009,KIND,Mw. Netzestien Negen-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Negen-Oktober,Netzestien,9-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231010,KIND,Mw. Netzestien Tien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Tien-Oktober,Netzestien,10-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231011,KIND,Mw. Netzestien Elf-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Elf-Oktober,Netzestien,11-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231012,KIND,Mw. Netzestien Twaalf-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Twaalf-Oktober,Netzestien,12-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231013,KIND,Mw. Netzestien Dertien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Dertien-Oktober,Netzestien,13-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231014,KIND,Mw. Netzestien Veertien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Veertien-Oktober,Netzestien,14-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231015,KIND,Mw. Netzestien Vijftien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vijftien-Oktober,Netzestien,15-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231016,KIND,Mw. Netzestien Zestien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zestien-Oktober,Netzestien,16-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231017,KIND,Mw. Netzestien Zeventien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zeventien-Oktober,Netzestien,17-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231018,KIND,Mw. Netzestien Achttien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Achttien-Oktober,Netzestien,18-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231019,KIND,Mw. Netzestien Negentien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Negentien-Oktober,Netzestien,19-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231020,KIND,Mw. Netzestien Twintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Twintig-Oktober,Netzestien,20-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231021,KIND,Mw. Netzestien Eenentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Eenentwintig-Oktober,Netzestien,21-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231022,KIND,Mw. Netzestien Tweeentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Tweeentwintig-Oktober,Netzestien,22-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231023,KIND,Mw. Netzestien Drieentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Drieentwintig-Oktober,Netzestien,23-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231024,KIND,Mw. Netzestien Vierentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vierentwintig-Oktober,Netzestien,24-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231025,KIND,Mw. Netzestien Vijfentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vijfentwintig-Oktober,Netzestien,25-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231026,KIND,Mw. Netzestien Zesentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zesentwintig-Oktober,Netzestien,26-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231027,KIND,Mw. Netzestien Zeventwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zeventwintig-Oktober,Netzestien,27-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231028,KIND,Mw. Netzestien Achtentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Achtentwintig-Oktober,Netzestien,28-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231029,KIND,Mw. Netzestien Negentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Negentwintig-Oktober,Netzestien,29-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231030,KIND,Mw. Netzestien Dertig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Dertig-Oktober,Netzestien,30-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231031,KIND,Mw. Netzestien Eenendertig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Eenendertig-Oktober,Netzestien,31-10-2007,DHG,,,,,,VOLW,F
+18091923,1620231101,KIND,Mw. Netzestien Een-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Een-November,Netzestien,1-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231102,KIND,Mw. Netzestien Twee-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Twee-November,Netzestien,2-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231103,KIND,Mw. Netzestien Drie-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Drie-November,Netzestien,3-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231104,KIND,Mw. Netzestien Vier-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vier-November,Netzestien,4-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231105,KIND,Mw. Netzestien Vijf-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vijf-November,Netzestien,5-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231106,KIND,Mw. Netzestien Zes-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zes-November,Netzestien,6-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231107,KIND,Mw. Netzestien Zeven-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zeven-November,Netzestien,7-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231108,KIND,Mw. Netzestien Acht-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Acht-November,Netzestien,8-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231109,KIND,Mw. Netzestien Negen-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Negen-November,Netzestien,9-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231110,KIND,Mw. Netzestien Tien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Tien-November,Netzestien,10-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231111,KIND,Mw. Netzestien Elf-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Elf-November,Netzestien,11-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231112,KIND,Mw. Netzestien Twaalf-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Twaalf-November,Netzestien,12-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231113,KIND,Mw. Netzestien Dertien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Dertien-November,Netzestien,13-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231114,KIND,Mw. Netzestien Veertien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Veertien-November,Netzestien,14-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231115,KIND,Mw. Netzestien Vijftien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vijftien-November,Netzestien,15-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231116,KIND,Mw. Netzestien Zestien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zestien-November,Netzestien,16-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231117,KIND,Mw. Netzestien Zeventien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zeventien-November,Netzestien,17-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231118,KIND,Mw. Netzestien Achttien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Achttien-November,Netzestien,18-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231119,KIND,Mw. Netzestien Negentien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Negentien-November,Netzestien,19-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231120,KIND,Mw. Netzestien Twintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Twintig-November,Netzestien,20-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231121,KIND,Mw. Netzestien Eenentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Eenentwintig-November,Netzestien,21-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231122,KIND,Mw. Netzestien Tweeentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Tweeentwintig-November,Netzestien,22-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231123,KIND,Mw. Netzestien Drieentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Drieentwintig-November,Netzestien,23-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231124,KIND,Mw. Netzestien Vierentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vierentwintig-November,Netzestien,24-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231125,KIND,Mw. Netzestien Vijfentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vijfentwintig-November,Netzestien,25-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231126,KIND,Mw. Netzestien Zesentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zesentwintig-November,Netzestien,26-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231127,KIND,Mw. Netzestien Zeventwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zeventwintig-November,Netzestien,27-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231128,KIND,Mw. Netzestien Achtentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Achtentwintig-November,Netzestien,28-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231129,KIND,Mw. Netzestien Negentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Negentwintig-November,Netzestien,29-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231130,KIND,Mw. Netzestien Dertig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Dertig-November,Netzestien,30-11-2007,DHG,,,,,,VOLW,F
+18091923,1620231201,KIND,Mw. Netzestien Een-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Een-December,Netzestien,1-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231202,KIND,Mw. Netzestien Twee-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Twee-December,Netzestien,2-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231203,KIND,Mw. Netzestien Drie-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Drie-December,Netzestien,3-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231204,KIND,Mw. Netzestien Vier-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vier-December,Netzestien,4-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231205,KIND,Mw. Netzestien Vijf-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vijf-December,Netzestien,5-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231206,KIND,Mw. Netzestien Zes-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zes-December,Netzestien,6-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231207,KIND,Mw. Netzestien Zeven-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zeven-December,Netzestien,7-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231208,KIND,Mw. Netzestien Acht-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Acht-December,Netzestien,8-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231209,KIND,Mw. Netzestien Negen-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Negen-December,Netzestien,9-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231210,KIND,Mw. Netzestien Tien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Tien-December,Netzestien,10-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231211,KIND,Mw. Netzestien Elf-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Elf-December,Netzestien,11-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231212,KIND,Mw. Netzestien Twaalf-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Twaalf-December,Netzestien,12-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231213,KIND,Mw. Netzestien Dertien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Dertien-December,Netzestien,13-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231214,KIND,Mw. Netzestien Veertien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Veertien-December,Netzestien,14-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231215,KIND,Mw. Netzestien Vijftien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vijftien-December,Netzestien,15-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231216,KIND,Mw. Netzestien Zestien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zestien-December,Netzestien,16-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231217,KIND,Mw. Netzestien Zeventien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zeventien-December,Netzestien,17-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231218,KIND,Mw. Netzestien Achttien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Achttien-December,Netzestien,18-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231219,KIND,Mw. Netzestien Negentien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Negentien-December,Netzestien,19-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231220,KIND,Mw. Netzestien Twintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Twintig-December,Netzestien,20-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231221,KIND,Mw. Netzestien Eenentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Eenentwintig-December,Netzestien,21-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231222,KIND,Mw. Netzestien Tweeentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Tweeentwintig-December,Netzestien,22-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231223,KIND,Mw. Netzestien Drieentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Drieentwintig-December,Netzestien,23-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231224,KIND,Mw. Netzestien Vierentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vierentwintig-December,Netzestien,24-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231225,KIND,Mw. Netzestien Vijfentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vijfentwintig-December,Netzestien,25-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231226,KIND,Mw. Netzestien Zesentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zesentwintig-December,Netzestien,26-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231227,KIND,Mw. Netzestien Zeventwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zeventwintig-December,Netzestien,27-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231228,KIND,Mw. Netzestien Achtentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Achtentwintig-December,Netzestien,28-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231229,KIND,Mw. Netzestien Negentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Negentwintig-December,Netzestien,29-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231230,KIND,Mw. Netzestien Dertig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Dertig-December,Netzestien,30-12-2007,DHG,,,,,,VOLW,F
+18091923,1620231231,KIND,Mw. Netzestien Eenendertig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Eenendertig-December,Netzestien,31-12-2007,DHG,,,,,,VOLW,F
+18091923,1120230101,KIND,Mw. Nettwaalf Een-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Een-Januari,Nettwaalf,1-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230102,KIND,Mw. Nettwaalf Twee-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Twee-Januari,Nettwaalf,2-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230103,KIND,Mw. Nettwaalf Drie-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Drie-Januari,Nettwaalf,3-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230104,KIND,Mw. Nettwaalf Vier-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vier-Januari,Nettwaalf,4-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230105,KIND,Mw. Nettwaalf Vijf-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vijf-Januari,Nettwaalf,5-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230106,KIND,Mw. Nettwaalf Zes-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zes-Januari,Nettwaalf,6-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230107,KIND,Mw. Nettwaalf Zeven-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zeven-Januari,Nettwaalf,7-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230108,KIND,Mw. Nettwaalf Acht-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Acht-Januari,Nettwaalf,8-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230109,KIND,Mw. Nettwaalf Negen-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Negen-Januari,Nettwaalf,9-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230110,KIND,Mw. Nettwaalf Tien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Tien-Januari,Nettwaalf,10-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230111,KIND,Mw. Nettwaalf Elf-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Elf-Januari,Nettwaalf,11-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230112,KIND,Mw. Nettwaalf Twaalf-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Twaalf-Januari,Nettwaalf,12-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230113,KIND,Mw. Nettwaalf Dertien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Dertien-Januari,Nettwaalf,13-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230114,KIND,Mw. Nettwaalf Veertien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Veertien-Januari,Nettwaalf,14-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230115,KIND,Mw. Nettwaalf Vijftien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vijftien-Januari,Nettwaalf,15-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230116,KIND,Mw. Nettwaalf Zestien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zestien-Januari,Nettwaalf,16-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230117,KIND,Mw. Nettwaalf Zeventien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zeventien-Januari,Nettwaalf,17-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230118,KIND,Mw. Nettwaalf Achttien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Achttien-Januari,Nettwaalf,18-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230119,KIND,Mw. Nettwaalf Negentien-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Negentien-Januari,Nettwaalf,19-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230120,KIND,Mw. Nettwaalf Twintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Twintig-Januari,Nettwaalf,20-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230121,KIND,Mw. Nettwaalf Eenentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Eenentwintig-Januari,Nettwaalf,21-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230122,KIND,Mw. Nettwaalf Tweeentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Tweeentwintig-Januari,Nettwaalf,22-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230123,KIND,Mw. Nettwaalf Drieentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Drieentwintig-Januari,Nettwaalf,23-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230124,KIND,Mw. Nettwaalf Vierentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vierentwintig-Januari,Nettwaalf,24-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230125,KIND,Mw. Nettwaalf Vijfentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Vijfentwintig-Januari,Nettwaalf,25-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230126,KIND,Mw. Nettwaalf Zesentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zesentwintig-Januari,Nettwaalf,26-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230127,KIND,Mw. Nettwaalf Zeventwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Zeventwintig-Januari,Nettwaalf,27-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230128,KIND,Mw. Nettwaalf Achtentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Achtentwintig-Januari,Nettwaalf,28-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230129,KIND,Mw. Nettwaalf Negentwintig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Negentwintig-Januari,Nettwaalf,29-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230130,KIND,Mw. Nettwaalf Dertig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Dertig-Januari,Nettwaalf,30-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230131,KIND,Mw. Nettwaalf Eenendertig-Januari,Grensweg 1,9343TD,Een-West,,J.A.N.,Eenendertig-Januari,Nettwaalf,31-1-2011,BARN,,,,,,VOLW,F
+18091923,1120230201,KIND,Mw. Nettwaalf Een-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Een-Februari,Nettwaalf,1-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230202,KIND,Mw. Nettwaalf Twee-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Twee-Februari,Nettwaalf,2-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230203,KIND,Mw. Nettwaalf Drie-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Drie-Februari,Nettwaalf,3-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230204,KIND,Mw. Nettwaalf Vier-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vier-Februari,Nettwaalf,4-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230205,KIND,Mw. Nettwaalf Vijf-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vijf-Februari,Nettwaalf,5-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230206,KIND,Mw. Nettwaalf Zes-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zes-Februari,Nettwaalf,6-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230207,KIND,Mw. Nettwaalf Zeven-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zeven-Februari,Nettwaalf,7-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230208,KIND,Mw. Nettwaalf Acht-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Acht-Februari,Nettwaalf,8-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230209,KIND,Mw. Nettwaalf Negen-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Negen-Februari,Nettwaalf,9-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230210,KIND,Mw. Nettwaalf Tien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Tien-Februari,Nettwaalf,10-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230211,KIND,Mw. Nettwaalf Elf-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Elf-Februari,Nettwaalf,11-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230212,KIND,Mw. Nettwaalf Twaalf-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Twaalf-Februari,Nettwaalf,12-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230213,KIND,Mw. Nettwaalf Dertien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Dertien-Februari,Nettwaalf,13-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230214,KIND,Mw. Nettwaalf Veertien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Veertien-Februari,Nettwaalf,14-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230215,KIND,Mw. Nettwaalf Vijftien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vijftien-Februari,Nettwaalf,15-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230216,KIND,Mw. Nettwaalf Zestien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zestien-Februari,Nettwaalf,16-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230217,KIND,Mw. Nettwaalf Zeventien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zeventien-Februari,Nettwaalf,17-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230218,KIND,Mw. Nettwaalf Achttien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Achttien-Februari,Nettwaalf,18-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230219,KIND,Mw. Nettwaalf Negentien-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Negentien-Februari,Nettwaalf,19-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230220,KIND,Mw. Nettwaalf Twintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Twintig-Februari,Nettwaalf,20-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230221,KIND,Mw. Nettwaalf Eenentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Eenentwintig-Februari,Nettwaalf,21-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230222,KIND,Mw. Nettwaalf Tweeentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Tweeentwintig-Februari,Nettwaalf,22-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230223,KIND,Mw. Nettwaalf Drieentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Drieentwintig-Februari,Nettwaalf,23-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230224,KIND,Mw. Nettwaalf Vierentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vierentwintig-Februari,Nettwaalf,24-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230225,KIND,Mw. Nettwaalf Vijfentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Vijfentwintig-Februari,Nettwaalf,25-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230226,KIND,Mw. Nettwaalf Zesentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zesentwintig-Februari,Nettwaalf,26-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230227,KIND,Mw. Nettwaalf Zeventwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Zeventwintig-Februari,Nettwaalf,27-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230228,KIND,Mw. Nettwaalf Achtentwintig-Februari,Exloërkijl-Zuid 5,9571AA,Tweede Exloërmond,,F.E.B.,Achtentwintig-Februari,Nettwaalf,28-2-2011,BARN,,,,,,VOLW,F
+18091923,1120230301,KIND,Mw. Nettwaalf Een-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Een-Maart,Nettwaalf,1-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230302,KIND,Mw. Nettwaalf Twee-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Twee-Maart,Nettwaalf,2-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230303,KIND,Mw. Nettwaalf Drie-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Drie-Maart,Nettwaalf,3-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230304,KIND,Mw. Nettwaalf Vier-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vier-Maart,Nettwaalf,4-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230305,KIND,Mw. Nettwaalf Vijf-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vijf-Maart,Nettwaalf,5-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230306,KIND,Mw. Nettwaalf Zes-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zes-Maart,Nettwaalf,6-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230307,KIND,Mw. Nettwaalf Zeven-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zeven-Maart,Nettwaalf,7-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230308,KIND,Mw. Nettwaalf Acht-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Acht-Maart,Nettwaalf,8-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230309,KIND,Mw. Nettwaalf Negen-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Negen-Maart,Nettwaalf,9-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230310,KIND,Mw. Nettwaalf Tien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Tien-Maart,Nettwaalf,10-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230311,KIND,Mw. Nettwaalf Elf-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Elf-Maart,Nettwaalf,11-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230312,KIND,Mw. Nettwaalf Twaalf-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Twaalf-Maart,Nettwaalf,12-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230313,KIND,Mw. Nettwaalf Dertien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Dertien-Maart,Nettwaalf,13-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230314,KIND,Mw. Nettwaalf Veertien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Veertien-Maart,Nettwaalf,14-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230315,KIND,Mw. Nettwaalf Vijftien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vijftien-Maart,Nettwaalf,15-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230316,KIND,Mw. Nettwaalf Zestien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zestien-Maart,Nettwaalf,16-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230317,KIND,Mw. Nettwaalf Zeventien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zeventien-Maart,Nettwaalf,17-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230318,KIND,Mw. Nettwaalf Achttien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Achttien-Maart,Nettwaalf,18-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230319,KIND,Mw. Nettwaalf Negentien-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Negentien-Maart,Nettwaalf,19-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230320,KIND,Mw. Nettwaalf Twintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Twintig-Maart,Nettwaalf,20-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230321,KIND,Mw. Nettwaalf Eenentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Eenentwintig-Maart,Nettwaalf,21-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230322,KIND,Mw. Nettwaalf Tweeentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Tweeentwintig-Maart,Nettwaalf,22-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230323,KIND,Mw. Nettwaalf Drieentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Drieentwintig-Maart,Nettwaalf,23-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230324,KIND,Mw. Nettwaalf Vierentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vierentwintig-Maart,Nettwaalf,24-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230325,KIND,Mw. Nettwaalf Vijfentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Vijfentwintig-Maart,Nettwaalf,25-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230326,KIND,Mw. Nettwaalf Zesentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zesentwintig-Maart,Nettwaalf,26-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230327,KIND,Mw. Nettwaalf Zeventwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Zeventwintig-Maart,Nettwaalf,27-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230328,KIND,Mw. Nettwaalf Achtentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Achtentwintig-Maart,Nettwaalf,28-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230329,KIND,Mw. Nettwaalf Negentwintig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Negentwintig-Maart,Nettwaalf,29-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230330,KIND,Mw. Nettwaalf Dertig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Dertig-Maart,Nettwaalf,30-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230331,KIND,Mw. Nettwaalf Eenendertig-Maart,Ds.B.J.Aderstraat 13,9688RK,Drieborg,,M.A.A.R.T.,Eenendertig-Maart,Nettwaalf,31-3-2011,BARN,,,,,,VOLW,F
+18091923,1120230401,KIND,Mw. Nettwaalf Een-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Een-April,Nettwaalf,1-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230402,KIND,Mw. Nettwaalf Twee-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Twee-April,Nettwaalf,2-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230403,KIND,Mw. Nettwaalf Drie-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Drie-April,Nettwaalf,3-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230404,KIND,Mw. Nettwaalf Vier-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vier-April,Nettwaalf,4-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230405,KIND,Mw. Nettwaalf Vijf-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vijf-April,Nettwaalf,5-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230406,KIND,Mw. Nettwaalf Zes-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zes-April,Nettwaalf,6-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230407,KIND,Mw. Nettwaalf Zeven-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zeven-April,Nettwaalf,7-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230408,KIND,Mw. Nettwaalf Acht-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Acht-April,Nettwaalf,8-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230409,KIND,Mw. Nettwaalf Negen-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Negen-April,Nettwaalf,9-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230410,KIND,Mw. Nettwaalf Tien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Tien-April,Nettwaalf,10-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230411,KIND,Mw. Nettwaalf Elf-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Elf-April,Nettwaalf,11-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230412,KIND,Mw. Nettwaalf Twaalf-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Twaalf-April,Nettwaalf,12-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230413,KIND,Mw. Nettwaalf Dertien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Dertien-April,Nettwaalf,13-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230414,KIND,Mw. Nettwaalf Veertien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Veertien-April,Nettwaalf,14-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230415,KIND,Mw. Nettwaalf Vijftien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vijftien-April,Nettwaalf,15-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230416,KIND,Mw. Nettwaalf Zestien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zestien-April,Nettwaalf,16-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230417,KIND,Mw. Nettwaalf Zeventien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zeventien-April,Nettwaalf,17-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230418,KIND,Mw. Nettwaalf Achttien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Achttien-April,Nettwaalf,18-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230419,KIND,Mw. Nettwaalf Negentien-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Negentien-April,Nettwaalf,19-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230420,KIND,Mw. Nettwaalf Twintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Twintig-April,Nettwaalf,20-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230421,KIND,Mw. Nettwaalf Eenentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Eenentwintig-April,Nettwaalf,21-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230422,KIND,Mw. Nettwaalf Tweeentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Tweeentwintig-April,Nettwaalf,22-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230423,KIND,Mw. Nettwaalf Drieentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Drieentwintig-April,Nettwaalf,23-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230424,KIND,Mw. Nettwaalf Vierentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vierentwintig-April,Nettwaalf,24-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230425,KIND,Mw. Nettwaalf Vijfentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Vijfentwintig-April,Nettwaalf,25-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230426,KIND,Mw. Nettwaalf Zesentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zesentwintig-April,Nettwaalf,26-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230427,KIND,Mw. Nettwaalf Zeventwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Zeventwintig-April,Nettwaalf,27-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230428,KIND,Mw. Nettwaalf Achtentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Achtentwintig-April,Nettwaalf,28-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230429,KIND,Mw. Nettwaalf Negentwintig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Negentwintig-April,Nettwaalf,29-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230430,KIND,Mw. Nettwaalf Dertig-April,Abraham Kuyperlaan 6,9722PE,Vierverlaten,,A.P.R.I.L.,Dertig-April,Nettwaalf,30-4-2011,BARN,,,,,,VOLW,F
+18091923,1120230501,KIND,Mw. Nettwaalf Een-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Een-Mei,Nettwaalf,1-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230502,KIND,Mw. Nettwaalf Twee-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Twee-Mei,Nettwaalf,2-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230503,KIND,Mw. Nettwaalf Drie-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Drie-Mei,Nettwaalf,3-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230504,KIND,Mw. Nettwaalf Vier-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vier-Mei,Nettwaalf,4-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230505,KIND,Mw. Nettwaalf Vijf-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vijf-Mei,Nettwaalf,5-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230506,KIND,Mw. Nettwaalf Zes-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zes-Mei,Nettwaalf,6-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230507,KIND,Mw. Nettwaalf Zeven-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zeven-Mei,Nettwaalf,7-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230508,KIND,Mw. Nettwaalf Acht-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Acht-Mei,Nettwaalf,8-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230509,KIND,Mw. Nettwaalf Negen-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Negen-Mei,Nettwaalf,9-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230510,KIND,Mw. Nettwaalf Tien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Tien-Mei,Nettwaalf,10-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230511,KIND,Mw. Nettwaalf Elf-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Elf-Mei,Nettwaalf,11-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230512,KIND,Mw. Nettwaalf Twaalf-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Twaalf-Mei,Nettwaalf,12-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230513,KIND,Mw. Nettwaalf Dertien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Dertien-Mei,Nettwaalf,13-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230514,KIND,Mw. Nettwaalf Veertien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Veertien-Mei,Nettwaalf,14-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230515,KIND,Mw. Nettwaalf Vijftien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vijftien-Mei,Nettwaalf,15-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230516,KIND,Mw. Nettwaalf Zestien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zestien-Mei,Nettwaalf,16-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230517,KIND,Mw. Nettwaalf Zeventien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zeventien-Mei,Nettwaalf,17-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230518,KIND,Mw. Nettwaalf Achttien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Achttien-Mei,Nettwaalf,18-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230519,KIND,Mw. Nettwaalf Negentien-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Negentien-Mei,Nettwaalf,19-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230520,KIND,Mw. Nettwaalf Twintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Twintig-Mei,Nettwaalf,20-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230521,KIND,Mw. Nettwaalf Eenentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Eenentwintig-Mei,Nettwaalf,21-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230522,KIND,Mw. Nettwaalf Tweeentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Tweeentwintig-Mei,Nettwaalf,22-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230523,KIND,Mw. Nettwaalf Drieentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Drieentwintig-Mei,Nettwaalf,23-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230524,KIND,Mw. Nettwaalf Vierentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vierentwintig-Mei,Nettwaalf,24-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230525,KIND,Mw. Nettwaalf Vijfentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Vijfentwintig-Mei,Nettwaalf,25-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230526,KIND,Mw. Nettwaalf Zesentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zesentwintig-Mei,Nettwaalf,26-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230527,KIND,Mw. Nettwaalf Zeventwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Zeventwintig-Mei,Nettwaalf,27-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230528,KIND,Mw. Nettwaalf Achtentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Achtentwintig-Mei,Nettwaalf,28-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230529,KIND,Mw. Nettwaalf Negentwintig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Negentwintig-Mei,Nettwaalf,29-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230530,KIND,Mw. Nettwaalf Dertig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Dertig-Mei,Nettwaalf,30-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230531,KIND,Mw. Nettwaalf Eenendertig-Mei,Batterij 2,2141NE,Vijfhuizen,,M.E.I,Eenendertig-Mei,Nettwaalf,31-5-2011,BARN,,,,,,VOLW,F
+18091923,1120230601,KIND,Mw. Nettwaalf Een-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Een-Juni,Nettwaalf,1-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230602,KIND,Mw. Nettwaalf Twee-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Twee-Juni,Nettwaalf,2-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230603,KIND,Mw. Nettwaalf Drie-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Drie-Juni,Nettwaalf,3-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230604,KIND,Mw. Nettwaalf Vier-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vier-Juni,Nettwaalf,4-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230605,KIND,Mw. Nettwaalf Vijf-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vijf-Juni,Nettwaalf,5-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230606,KIND,Mw. Nettwaalf Zes-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zes-Juni,Nettwaalf,6-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230607,KIND,Mw. Nettwaalf Zeven-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zeven-Juni,Nettwaalf,7-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230608,KIND,Mw. Nettwaalf Acht-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Acht-Juni,Nettwaalf,8-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230609,KIND,Mw. Nettwaalf Negen-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Negen-Juni,Nettwaalf,9-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230610,KIND,Mw. Nettwaalf Tien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Tien-Juni,Nettwaalf,10-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230611,KIND,Mw. Nettwaalf Elf-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Elf-Juni,Nettwaalf,11-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230612,KIND,Mw. Nettwaalf Twaalf-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Twaalf-Juni,Nettwaalf,12-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230613,KIND,Mw. Nettwaalf Dertien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Dertien-Juni,Nettwaalf,13-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230614,KIND,Mw. Nettwaalf Veertien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Veertien-Juni,Nettwaalf,14-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230615,KIND,Mw. Nettwaalf Vijftien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vijftien-Juni,Nettwaalf,15-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230616,KIND,Mw. Nettwaalf Zestien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zestien-Juni,Nettwaalf,16-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230617,KIND,Mw. Nettwaalf Zeventien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zeventien-Juni,Nettwaalf,17-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230618,KIND,Mw. Nettwaalf Achttien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Achttien-Juni,Nettwaalf,18-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230619,KIND,Mw. Nettwaalf Negentien-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Negentien-Juni,Nettwaalf,19-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230620,KIND,Mw. Nettwaalf Twintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Twintig-Juni,Nettwaalf,20-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230621,KIND,Mw. Nettwaalf Eenentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Eenentwintig-Juni,Nettwaalf,21-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230622,KIND,Mw. Nettwaalf Tweeentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Tweeentwintig-Juni,Nettwaalf,22-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230623,KIND,Mw. Nettwaalf Drieentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Drieentwintig-Juni,Nettwaalf,23-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230624,KIND,Mw. Nettwaalf Vierentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vierentwintig-Juni,Nettwaalf,24-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230625,KIND,Mw. Nettwaalf Vijfentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Vijfentwintig-Juni,Nettwaalf,25-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230626,KIND,Mw. Nettwaalf Zesentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zesentwintig-Juni,Nettwaalf,26-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230627,KIND,Mw. Nettwaalf Zeventwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Zeventwintig-Juni,Nettwaalf,27-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230628,KIND,Mw. Nettwaalf Achtentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Achtentwintig-Juni,Nettwaalf,28-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230629,KIND,Mw. Nettwaalf Negentwintig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Negentwintig-Juni,Nettwaalf,29-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230630,KIND,Mw. Nettwaalf Dertig-Juni,Zeswielen 1B,1823DJ,Alkmaar,,J.U.N.I.,Dertig-Juni,Nettwaalf,30-6-2011,BARN,,,,,,VOLW,F
+18091923,1120230701,KIND,Mw. Nettwaalf Een-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Een-Juli,Nettwaalf,1-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230702,KIND,Mw. Nettwaalf Twee-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Twee-Juli,Nettwaalf,2-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230703,KIND,Mw. Nettwaalf Drie-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Drie-Juli,Nettwaalf,3-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230704,KIND,Mw. Nettwaalf Vier-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vier-Juli,Nettwaalf,4-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230705,KIND,Mw. Nettwaalf Vijf-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vijf-Juli,Nettwaalf,5-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230706,KIND,Mw. Nettwaalf Zes-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zes-Juli,Nettwaalf,6-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230707,KIND,Mw. Nettwaalf Zeven-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zeven-Juli,Nettwaalf,7-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230708,KIND,Mw. Nettwaalf Acht-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Acht-Juli,Nettwaalf,8-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230709,KIND,Mw. Nettwaalf Negen-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Negen-Juli,Nettwaalf,9-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230710,KIND,Mw. Nettwaalf Tien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Tien-Juli,Nettwaalf,10-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230711,KIND,Mw. Nettwaalf Elf-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Elf-Juli,Nettwaalf,11-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230712,KIND,Mw. Nettwaalf Twaalf-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Twaalf-Juli,Nettwaalf,12-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230713,KIND,Mw. Nettwaalf Dertien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Dertien-Juli,Nettwaalf,13-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230714,KIND,Mw. Nettwaalf Veertien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Veertien-Juli,Nettwaalf,14-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230715,KIND,Mw. Nettwaalf Vijftien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vijftien-Juli,Nettwaalf,15-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230716,KIND,Mw. Nettwaalf Zestien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zestien-Juli,Nettwaalf,16-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230717,KIND,Mw. Nettwaalf Zeventien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zeventien-Juli,Nettwaalf,17-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230718,KIND,Mw. Nettwaalf Achttien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Achttien-Juli,Nettwaalf,18-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230719,KIND,Mw. Nettwaalf Negentien-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Negentien-Juli,Nettwaalf,19-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230720,KIND,Mw. Nettwaalf Twintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Twintig-Juli,Nettwaalf,20-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230721,KIND,Mw. Nettwaalf Eenentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Eenentwintig-Juli,Nettwaalf,21-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230722,KIND,Mw. Nettwaalf Tweeentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Tweeentwintig-Juli,Nettwaalf,22-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230723,KIND,Mw. Nettwaalf Drieentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Drieentwintig-Juli,Nettwaalf,23-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230724,KIND,Mw. Nettwaalf Vierentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vierentwintig-Juli,Nettwaalf,24-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230725,KIND,Mw. Nettwaalf Vijfentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Vijfentwintig-Juli,Nettwaalf,25-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230726,KIND,Mw. Nettwaalf Zesentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zesentwintig-Juli,Nettwaalf,26-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230727,KIND,Mw. Nettwaalf Zeventwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Zeventwintig-Juli,Nettwaalf,27-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230728,KIND,Mw. Nettwaalf Achtentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Achtentwintig-Juli,Nettwaalf,28-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230729,KIND,Mw. Nettwaalf Negentwintig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Negentwintig-Juli,Nettwaalf,29-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230730,KIND,Mw. Nettwaalf Dertig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Dertig-Juli,Nettwaalf,30-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230731,KIND,Mw. Nettwaalf Eenendertig-Juli,Zevenhuizen 11,9166PC,Schiermonnikoog,,J.U.L.I,Eenendertig-Juli,Nettwaalf,31-7-2011,BARN,,,,,,VOLW,F
+18091923,1120230801,KIND,Mw. Nettwaalf Een-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Een-Augustus,Nettwaalf,1-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230802,KIND,Mw. Nettwaalf Twee-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Twee-Augustus,Nettwaalf,2-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230803,KIND,Mw. Nettwaalf Drie-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Drie-Augustus,Nettwaalf,3-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230804,KIND,Mw. Nettwaalf Vier-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vier-Augustus,Nettwaalf,4-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230805,KIND,Mw. Nettwaalf Vijf-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vijf-Augustus,Nettwaalf,5-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230806,KIND,Mw. Nettwaalf Zes-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zes-Augustus,Nettwaalf,6-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230807,KIND,Mw. Nettwaalf Zeven-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zeven-Augustus,Nettwaalf,7-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230808,KIND,Mw. Nettwaalf Acht-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Acht-Augustus,Nettwaalf,8-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230809,KIND,Mw. Nettwaalf Negen-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Negen-Augustus,Nettwaalf,9-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230810,KIND,Mw. Nettwaalf Tien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Tien-Augustus,Nettwaalf,10-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230811,KIND,Mw. Nettwaalf Elf-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Elf-Augustus,Nettwaalf,11-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230812,KIND,Mw. Nettwaalf Twaalf-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Twaalf-Augustus,Nettwaalf,12-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230813,KIND,Mw. Nettwaalf Dertien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Dertien-Augustus,Nettwaalf,13-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230814,KIND,Mw. Nettwaalf Veertien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Veertien-Augustus,Nettwaalf,14-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230815,KIND,Mw. Nettwaalf Vijftien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vijftien-Augustus,Nettwaalf,15-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230816,KIND,Mw. Nettwaalf Zestien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zestien-Augustus,Nettwaalf,16-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230817,KIND,Mw. Nettwaalf Zeventien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zeventien-Augustus,Nettwaalf,17-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230818,KIND,Mw. Nettwaalf Achttien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Achttien-Augustus,Nettwaalf,18-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230819,KIND,Mw. Nettwaalf Negentien-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Negentien-Augustus,Nettwaalf,19-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230820,KIND,Mw. Nettwaalf Twintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Twintig-Augustus,Nettwaalf,20-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230821,KIND,Mw. Nettwaalf Eenentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Eenentwintig-Augustus,Nettwaalf,21-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230822,KIND,Mw. Nettwaalf Tweeentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Tweeentwintig-Augustus,Nettwaalf,22-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230823,KIND,Mw. Nettwaalf Drieentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Drieentwintig-Augustus,Nettwaalf,23-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230824,KIND,Mw. Nettwaalf Vierentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vierentwintig-Augustus,Nettwaalf,24-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230825,KIND,Mw. Nettwaalf Vijfentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Vijfentwintig-Augustus,Nettwaalf,25-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230826,KIND,Mw. Nettwaalf Zesentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zesentwintig-Augustus,Nettwaalf,26-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230827,KIND,Mw. Nettwaalf Zeventwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Zeventwintig-Augustus,Nettwaalf,27-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230828,KIND,Mw. Nettwaalf Achtentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Achtentwintig-Augustus,Nettwaalf,28-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230829,KIND,Mw. Nettwaalf Negentwintig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Negentwintig-Augustus,Nettwaalf,29-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230830,KIND,Mw. Nettwaalf Dertig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Dertig-Augustus,Nettwaalf,30-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230831,KIND,Mw. Nettwaalf Eenendertig-Augustus,Bakzakkenstraat 4,4885JD,Achtmaal,,A.U.G.,Eenendertig-Augustus,Nettwaalf,31-8-2011,BARN,,,,,,VOLW,F
+18091923,1120230901,KIND,Mw. Nettwaalf Een-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Een-September,Nettwaalf,1-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230902,KIND,Mw. Nettwaalf Twee-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Twee-September,Nettwaalf,2-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230903,KIND,Mw. Nettwaalf Drie-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Drie-September,Nettwaalf,3-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230904,KIND,Mw. Nettwaalf Vier-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vier-September,Nettwaalf,4-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230905,KIND,Mw. Nettwaalf Vijf-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vijf-September,Nettwaalf,5-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230906,KIND,Mw. Nettwaalf Zes-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zes-September,Nettwaalf,6-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230907,KIND,Mw. Nettwaalf Zeven-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zeven-September,Nettwaalf,7-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230908,KIND,Mw. Nettwaalf Acht-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Acht-September,Nettwaalf,8-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230909,KIND,Mw. Nettwaalf Negen-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Negen-September,Nettwaalf,9-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230910,KIND,Mw. Nettwaalf Tien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Tien-September,Nettwaalf,10-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230911,KIND,Mw. Nettwaalf Elf-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Elf-September,Nettwaalf,11-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230912,KIND,Mw. Nettwaalf Twaalf-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Twaalf-September,Nettwaalf,12-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230913,KIND,Mw. Nettwaalf Dertien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Dertien-September,Nettwaalf,13-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230914,KIND,Mw. Nettwaalf Veertien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Veertien-September,Nettwaalf,14-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230915,KIND,Mw. Nettwaalf Vijftien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vijftien-September,Nettwaalf,15-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230916,KIND,Mw. Nettwaalf Zestien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zestien-September,Nettwaalf,16-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230917,KIND,Mw. Nettwaalf Zeventien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zeventien-September,Nettwaalf,17-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230918,KIND,Mw. Nettwaalf Achttien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Achttien-September,Nettwaalf,18-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230919,KIND,Mw. Nettwaalf Negentien-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Negentien-September,Nettwaalf,19-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230920,KIND,Mw. Nettwaalf Twintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Twintig-September,Nettwaalf,20-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230921,KIND,Mw. Nettwaalf Eenentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Eenentwintig-September,Nettwaalf,21-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230922,KIND,Mw. Nettwaalf Tweeentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Tweeentwintig-September,Nettwaalf,22-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230923,KIND,Mw. Nettwaalf Drieentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Drieentwintig-September,Nettwaalf,23-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230924,KIND,Mw. Nettwaalf Vierentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vierentwintig-September,Nettwaalf,24-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230925,KIND,Mw. Nettwaalf Vijfentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Vijfentwintig-September,Nettwaalf,25-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230926,KIND,Mw. Nettwaalf Zesentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zesentwintig-September,Nettwaalf,26-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230927,KIND,Mw. Nettwaalf Zeventwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Zeventwintig-September,Nettwaalf,27-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230928,KIND,Mw. Nettwaalf Achtentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Achtentwintig-September,Nettwaalf,28-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230929,KIND,Mw. Nettwaalf Negentwintig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Negentwintig-September,Nettwaalf,29-9-2011,BARN,,,,,,VOLW,F
+18091923,1120230930,KIND,Mw. Nettwaalf Dertig-September,Negen Gemeten 23,4464JC,Goes,,S.E.P.T,Dertig-September,Nettwaalf,30-9-2011,BARN,,,,,,VOLW,F
+18091923,1120231001,KIND,Mw. Nettwaalf Een-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Een-Oktober,Nettwaalf,1-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231002,KIND,Mw. Nettwaalf Twee-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Twee-Oktober,Nettwaalf,2-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231003,KIND,Mw. Nettwaalf Drie-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Drie-Oktober,Nettwaalf,3-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231004,KIND,Mw. Nettwaalf Vier-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vier-Oktober,Nettwaalf,4-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231005,KIND,Mw. Nettwaalf Vijf-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vijf-Oktober,Nettwaalf,5-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231006,KIND,Mw. Nettwaalf Zes-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zes-Oktober,Nettwaalf,6-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231007,KIND,Mw. Nettwaalf Zeven-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zeven-Oktober,Nettwaalf,7-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231008,KIND,Mw. Nettwaalf Acht-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Acht-Oktober,Nettwaalf,8-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231009,KIND,Mw. Nettwaalf Negen-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Negen-Oktober,Nettwaalf,9-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231010,KIND,Mw. Nettwaalf Tien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Tien-Oktober,Nettwaalf,10-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231011,KIND,Mw. Nettwaalf Elf-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Elf-Oktober,Nettwaalf,11-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231012,KIND,Mw. Nettwaalf Twaalf-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Twaalf-Oktober,Nettwaalf,12-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231013,KIND,Mw. Nettwaalf Dertien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Dertien-Oktober,Nettwaalf,13-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231014,KIND,Mw. Nettwaalf Veertien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Veertien-Oktober,Nettwaalf,14-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231015,KIND,Mw. Nettwaalf Vijftien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vijftien-Oktober,Nettwaalf,15-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231016,KIND,Mw. Nettwaalf Zestien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zestien-Oktober,Nettwaalf,16-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231017,KIND,Mw. Nettwaalf Zeventien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zeventien-Oktober,Nettwaalf,17-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231018,KIND,Mw. Nettwaalf Achttien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Achttien-Oktober,Nettwaalf,18-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231019,KIND,Mw. Nettwaalf Negentien-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Negentien-Oktober,Nettwaalf,19-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231020,KIND,Mw. Nettwaalf Twintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Twintig-Oktober,Nettwaalf,20-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231021,KIND,Mw. Nettwaalf Eenentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Eenentwintig-Oktober,Nettwaalf,21-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231022,KIND,Mw. Nettwaalf Tweeentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Tweeentwintig-Oktober,Nettwaalf,22-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231023,KIND,Mw. Nettwaalf Drieentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Drieentwintig-Oktober,Nettwaalf,23-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231024,KIND,Mw. Nettwaalf Vierentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vierentwintig-Oktober,Nettwaalf,24-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231025,KIND,Mw. Nettwaalf Vijfentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Vijfentwintig-Oktober,Nettwaalf,25-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231026,KIND,Mw. Nettwaalf Zesentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zesentwintig-Oktober,Nettwaalf,26-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231027,KIND,Mw. Nettwaalf Zeventwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Zeventwintig-Oktober,Nettwaalf,27-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231028,KIND,Mw. Nettwaalf Achtentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Achtentwintig-Oktober,Nettwaalf,28-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231029,KIND,Mw. Nettwaalf Negentwintig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Negentwintig-Oktober,Nettwaalf,29-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231030,KIND,Mw. Nettwaalf Dertig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Dertig-Oktober,Nettwaalf,30-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231031,KIND,Mw. Nettwaalf Eenendertig-Oktober,Kremboong 2T 1,7937TB,Tiendeveen,,O.K.T.,Eenendertig-Oktober,Nettwaalf,31-10-2011,BARN,,,,,,VOLW,F
+18091923,1120231101,KIND,Mw. Nettwaalf Een-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Een-November,Nettwaalf,1-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231102,KIND,Mw. Nettwaalf Twee-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Twee-November,Nettwaalf,2-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231103,KIND,Mw. Nettwaalf Drie-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Drie-November,Nettwaalf,3-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231104,KIND,Mw. Nettwaalf Vier-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vier-November,Nettwaalf,4-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231105,KIND,Mw. Nettwaalf Vijf-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vijf-November,Nettwaalf,5-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231106,KIND,Mw. Nettwaalf Zes-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zes-November,Nettwaalf,6-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231107,KIND,Mw. Nettwaalf Zeven-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zeven-November,Nettwaalf,7-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231108,KIND,Mw. Nettwaalf Acht-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Acht-November,Nettwaalf,8-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231109,KIND,Mw. Nettwaalf Negen-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Negen-November,Nettwaalf,9-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231110,KIND,Mw. Nettwaalf Tien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Tien-November,Nettwaalf,10-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231111,KIND,Mw. Nettwaalf Elf-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Elf-November,Nettwaalf,11-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231112,KIND,Mw. Nettwaalf Twaalf-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Twaalf-November,Nettwaalf,12-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231113,KIND,Mw. Nettwaalf Dertien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Dertien-November,Nettwaalf,13-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231114,KIND,Mw. Nettwaalf Veertien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Veertien-November,Nettwaalf,14-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231115,KIND,Mw. Nettwaalf Vijftien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vijftien-November,Nettwaalf,15-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231116,KIND,Mw. Nettwaalf Zestien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zestien-November,Nettwaalf,16-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231117,KIND,Mw. Nettwaalf Zeventien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zeventien-November,Nettwaalf,17-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231118,KIND,Mw. Nettwaalf Achttien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Achttien-November,Nettwaalf,18-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231119,KIND,Mw. Nettwaalf Negentien-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Negentien-November,Nettwaalf,19-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231120,KIND,Mw. Nettwaalf Twintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Twintig-November,Nettwaalf,20-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231121,KIND,Mw. Nettwaalf Eenentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Eenentwintig-November,Nettwaalf,21-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231122,KIND,Mw. Nettwaalf Tweeentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Tweeentwintig-November,Nettwaalf,22-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231123,KIND,Mw. Nettwaalf Drieentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Drieentwintig-November,Nettwaalf,23-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231124,KIND,Mw. Nettwaalf Vierentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vierentwintig-November,Nettwaalf,24-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231125,KIND,Mw. Nettwaalf Vijfentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Vijfentwintig-November,Nettwaalf,25-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231126,KIND,Mw. Nettwaalf Zesentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zesentwintig-November,Nettwaalf,26-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231127,KIND,Mw. Nettwaalf Zeventwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Zeventwintig-November,Nettwaalf,27-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231128,KIND,Mw. Nettwaalf Achtentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Achtentwintig-November,Nettwaalf,28-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231129,KIND,Mw. Nettwaalf Negentwintig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Negentwintig-November,Nettwaalf,29-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231130,KIND,Mw. Nettwaalf Dertig-November,Elfenbank 19,9685EC,Blauwestad,,N.O.V.,Dertig-November,Nettwaalf,30-11-2011,BARN,,,,,,VOLW,F
+18091923,1120231201,KIND,Mw. Nettwaalf Een-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Een-December,Nettwaalf,1-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231202,KIND,Mw. Nettwaalf Twee-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Twee-December,Nettwaalf,2-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231203,KIND,Mw. Nettwaalf Drie-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Drie-December,Nettwaalf,3-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231204,KIND,Mw. Nettwaalf Vier-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vier-December,Nettwaalf,4-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231205,KIND,Mw. Nettwaalf Vijf-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vijf-December,Nettwaalf,5-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231206,KIND,Mw. Nettwaalf Zes-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zes-December,Nettwaalf,6-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231207,KIND,Mw. Nettwaalf Zeven-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zeven-December,Nettwaalf,7-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231208,KIND,Mw. Nettwaalf Acht-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Acht-December,Nettwaalf,8-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231209,KIND,Mw. Nettwaalf Negen-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Negen-December,Nettwaalf,9-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231210,KIND,Mw. Nettwaalf Tien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Tien-December,Nettwaalf,10-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231211,KIND,Mw. Nettwaalf Elf-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Elf-December,Nettwaalf,11-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231212,KIND,Mw. Nettwaalf Twaalf-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Twaalf-December,Nettwaalf,12-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231213,KIND,Mw. Nettwaalf Dertien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Dertien-December,Nettwaalf,13-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231214,KIND,Mw. Nettwaalf Veertien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Veertien-December,Nettwaalf,14-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231215,KIND,Mw. Nettwaalf Vijftien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vijftien-December,Nettwaalf,15-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231216,KIND,Mw. Nettwaalf Zestien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zestien-December,Nettwaalf,16-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231217,KIND,Mw. Nettwaalf Zeventien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zeventien-December,Nettwaalf,17-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231218,KIND,Mw. Nettwaalf Achttien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Achttien-December,Nettwaalf,18-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231219,KIND,Mw. Nettwaalf Negentien-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Negentien-December,Nettwaalf,19-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231220,KIND,Mw. Nettwaalf Twintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Twintig-December,Nettwaalf,20-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231221,KIND,Mw. Nettwaalf Eenentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Eenentwintig-December,Nettwaalf,21-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231222,KIND,Mw. Nettwaalf Tweeentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Tweeentwintig-December,Nettwaalf,22-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231223,KIND,Mw. Nettwaalf Drieentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Drieentwintig-December,Nettwaalf,23-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231224,KIND,Mw. Nettwaalf Vierentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vierentwintig-December,Nettwaalf,24-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231225,KIND,Mw. Nettwaalf Vijfentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Vijfentwintig-December,Nettwaalf,25-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231226,KIND,Mw. Nettwaalf Zesentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zesentwintig-December,Nettwaalf,26-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231227,KIND,Mw. Nettwaalf Zeventwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Zeventwintig-December,Nettwaalf,27-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231228,KIND,Mw. Nettwaalf Achtentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Achtentwintig-December,Nettwaalf,28-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231229,KIND,Mw. Nettwaalf Negentwintig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Negentwintig-December,Nettwaalf,29-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231230,KIND,Mw. Nettwaalf Dertig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Dertig-December,Nettwaalf,30-12-2011,BARN,,,,,,VOLW,F
+18091923,1120231231,KIND,Mw. Nettwaalf Eenendertig-December,Twaalfmorgenland 8,3871ML,Hoevelaken,,D.E.C,Eenendertig-December,Nettwaalf,31-12-2011,BARN,,,,,,VOLW,F
